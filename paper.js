@@ -154,7 +154,7 @@
 // // // function sayHello() {
 // // //   console.log("Hello via onclick property with reference!");
 // // // }
-// // // btn.onclick = sayHello;  // ⚠️ this will override method #1
+// // // btn.onclick = sayHello;  // this will override method #1
 
 // // // // 7. Using event object
 // // // btn.addEventListener("click", function (event) {
